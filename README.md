@@ -4,6 +4,10 @@
 
 A revolutionary platform that transforms the entire Software Development Life Cycle (SDLC) with intelligent multi-agent orchestration, real-time collaboration, and end-to-end automation.
 
+## Supporting Slide Deck
+
+https://docs.google.com/presentation/d/1lTHnIvZQ9DgfdZOsT_q_CHOx6zuINdckEeYdmlnbfSE/edit?usp=sharing
+
 ![SDLC AI Platform](https://img.shields.io/badge/Version-1.0.0-blue)
 ![Next.js](https://img.shields.io/badge/Next.js-14.1.0-black)
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
