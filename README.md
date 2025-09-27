@@ -9,6 +9,8 @@ A revolutionary platform that transforms the entire Software Development Life Cy
 https://docs.google.com/presentation/d/1lTHnIvZQ9DgfdZOsT_q_CHOx6zuINdckEeYdmlnbfSE/edit?usp=sharing
 
 <img width="1029" height="789" alt="image" src="https://github.com/user-attachments/assets/beaabb4c-3674-4c16-b0c1-d544632f069c" />
+<img width="1039" height="716" alt="image" src="https://github.com/user-attachments/assets/88247e16-5aa3-4241-af97-ab593ca6974b" />
+
 
 
 ![SDLC AI Platform](https://img.shields.io/badge/Version-1.0.0-blue)
