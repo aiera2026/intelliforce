@@ -10,7 +10,13 @@ https://docs.google.com/presentation/d/1lTHnIvZQ9DgfdZOsT_q_CHOx6zuINdckEeYdmlnb
 
 <img width="1029" height="789" alt="image" src="https://github.com/user-attachments/assets/beaabb4c-3674-4c16-b0c1-d544632f069c" />
 <img width="1039" height="716" alt="image" src="https://github.com/user-attachments/assets/88247e16-5aa3-4241-af97-ab593ca6974b" />
-<img width="927" height="274" alt="image" src="https://github.com/user-attachments/assets/598e2b54-b08c-44c2-bf42-4c06fe9b0956" />
+<img width="947" height="332" alt="image" src="https://github.com/user-attachments/assets/468d15de-7368-4249-94ce-77b752d8387b" />
+<img width="1696" height="705" alt="image" src="https://github.com/user-attachments/assets/393c0067-af76-407d-b26a-978eede2b7dc" />
+<img width="1190" height="774" alt="image" src="https://github.com/user-attachments/assets/403b0cd8-a381-4869-a550-029a473059c9" />
+
+
+
+
 
 
 
