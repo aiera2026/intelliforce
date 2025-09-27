@@ -8,6 +8,9 @@ A revolutionary platform that transforms the entire Software Development Life Cy
 
 https://docs.google.com/presentation/d/1lTHnIvZQ9DgfdZOsT_q_CHOx6zuINdckEeYdmlnbfSE/edit?usp=sharing
 
+<img width="1029" height="789" alt="image" src="https://github.com/user-attachments/assets/beaabb4c-3674-4c16-b0c1-d544632f069c" />
+
+
 ![SDLC AI Platform](https://img.shields.io/badge/Version-1.0.0-blue)
 ![Next.js](https://img.shields.io/badge/Next.js-14.1.0-black)
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
